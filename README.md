@@ -243,7 +243,7 @@ The dashboards provide insights into:
 # 📁 Repository Contents
 
 ```
-HR-Workforce-Analytics-Dashboard-PowerBI
+HR-Workforce-Analytics-with-rls-Dashboard-PowerBI
 
 │── HR Analytics with RLS.pbix
 │── HR_Analytics_Dataset.xlsx
