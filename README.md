@@ -282,15 +282,4 @@ This project helped strengthen practical knowledge of:
 
 ---
 
-# 📬 Contact
-
-**Snigdha Shukla**
-
-If you have any feedback, suggestions, or collaboration opportunities, feel free to connect!
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-
----
-
 ⭐ **If you found this project useful, consider giving the repository a star!**
